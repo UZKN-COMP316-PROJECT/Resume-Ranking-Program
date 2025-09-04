@@ -34,18 +34,32 @@ The goal is to assist recruiters by providing:
 
 ⚙️ Requirements
 
-Python 3.8+
-
-PyTorch
-
-Transformers (Hugging Face)
-
-Pandas / NumPy
-
-Jupyter Notebook
+  Python 3.8+
+  
+  PyTorch
+  
+  Transformers (Hugging Face)
+  
+  Pandas / NumPy
+  
+  Jupyter Notebook
 
 ▶️ How to Run the Project
 
-Clone the repository
+  Clone the repository
+  
+  Install dependencies:
+    pip install -r requirements.txt
 
-Install dependencies:
+📊 Results
+
+  RMSE: ~14.13
+  
+  R² Score: ~0.31
+  
+  The model captures key trends in resume quality but leaves room for improvement (data variability, label noise, domain nuance).
+
+⚠️ Disclaimer
+
+  This project was developed for educational purposes only.
+  We do not claim ownership of datasets or pretrained models used.
