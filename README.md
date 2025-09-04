@@ -51,7 +51,13 @@ The goal is to assist recruiters by providing:
 The model captures key trends in resume quality but leaves room for improvement (data variability, label noise, domain nuance).  
 
 ---
+## 👥 Team Members  
+- Farha Mustan    (Farry18)
+- Reyasen Naicker (Reyasen-Naicker)
+- Xander Links    (xanderLinks)
+- Zuriel Singh    (zurielsingh)
 
+---
 ## ⚠️ Disclaimer  
 This project was developed **for educational purposes only**.  
 We do not claim ownership of datasets or pretrained models used.  
