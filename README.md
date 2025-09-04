@@ -1,11 +1,8 @@
 # Resume-Ranking-Program
 An AI-powered resume evaluation system using BERT regression to deliver consistent, bias-reduced scoring
 
-
 🤖 AI Resume Ranker
-
-Team Project
-Developed by 3rd-year Computer Science students at UKZN as part of COMP316 Machine Learning & NLP.
+Team Project Developed by 3rd-year Computer Science students at UKZN as part of COMP316 Machine Learning & NLP.
 
 📖 About the Project
 
