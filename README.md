@@ -44,3 +44,14 @@ The goal is to assist recruiters by providing:
    pip install -r requirements.txt
 
 ---
+## 📊 Results  
+- **RMSE:** ~14.13  
+- **R² Score:** ~0.31  
+
+The model captures key trends in resume quality but leaves room for improvement (data variability, label noise, domain nuance).  
+
+---
+
+## ⚠️ Disclaimer  
+This project was developed **for educational purposes only**.  
+We do not claim ownership of datasets or pretrained models used.  
